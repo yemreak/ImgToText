@@ -1,0 +1,6 @@
+# Datas/backgrounds/*
+# Datas/inputs/*
+# Datas/outputs/*
+
+.idea/*
+__pycache__/
